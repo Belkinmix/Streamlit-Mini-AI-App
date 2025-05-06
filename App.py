@@ -17,7 +17,6 @@ This project brings together real-time **emotion detection** from images or webc
 ### Features Included:
 - **Emotion Detection** from your image or webcam feed
 - **Image Caption Generator** powered by BLIP
-- **Multilingual Text Assistant** with FLAN-T5 by Google
 - **Sentiment Analyzer** for headlines, tweets, or articles
 - **Fun Zone** full of surprises: emojis, fireworks, music, easter eggs!
 
@@ -26,7 +25,7 @@ This project brings together real-time **emotion detection** from images or webc
 ### Technologies Used:
 - Python, Streamlit & Anaconda
 - DeepFace for facial analysis
-- Hugging Face Transformers: `blip`, `flan-t5`, `roberta-sentiment`
+- Hugging Face Transformers: `blip`, `roberta-sentiment`
 - Torch, PIL, WebRTC
 - Fun extras: `streamlit-extras`, emojis, MP3 playback, and more!
 
@@ -43,7 +42,6 @@ Use the **sidebar** to explore all features:
 - AI Text Assistant
 - Sentiment Analyzer
 - The Fun Zone (yes, it got crazier), use the word "banana" for a surpise!
-
 
 ---
 If you like this project, feel free to connect with me!  
