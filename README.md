@@ -35,3 +35,7 @@ Includes:
 - WebRTC, streamlit-extras
 - MP3 audio streaming
 - Emoji rain, toast messages, and more
+
+---
+## Structure
+The structure is the same - the core file is "App.py", with 2 corresponding folders. Just copy how it is here on GitHub :)
